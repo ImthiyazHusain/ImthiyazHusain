@@ -36,10 +36,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImthiyazHusain&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 <p align="center">
-  <img src="https://github.com/ImthiyazHusain/ImthiyazHusain/raw/output/github-contribution-grid-snake.svg" alt="3D Snake Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImthiyazHusain&layout=compact&theme=tokyonight" width="100%" />
 </p>
+
 ---
 
 ### 🌟 Quote I Live By
