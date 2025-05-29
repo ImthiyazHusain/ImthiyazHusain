@@ -37,6 +37,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg" alt="3D Snake Contributions" />
+</p>
+---
 
 ### 🌟 Quote I Live By
 > _"Push yourself, because no one else is going to do it for you."_
