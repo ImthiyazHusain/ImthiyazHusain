@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 - **Languages**: Java, JavaScript
 - **Frontend**: React.js, HTML5, CSS3, TailwindCSS
-- **Backend**: Node.js, Express.js, Firebase, MongoDB
+- **Backend**: Node.js, Firebase, MongoDB
 - **AI Tools**: OpenAI API, Gemini
 - **Tools**: Git, VS Code, Figma
 
