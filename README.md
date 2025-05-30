@@ -35,7 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ImthiyazHusain&show_icons=true&theme=radical" alt="GitHub Stats"  width="70%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImthiyazHusain&theme=radical" alt="GitHub Streak" width="70%"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImthiyazHusain&layout=compact&theme=tokyonight" width="70%" />
 </p>
